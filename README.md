@@ -82,4 +82,8 @@ jwt.secret=TU_LLAVE_SECRETA
 ## WebSockets
 
     Notificaciones en tiempo real para usuarios.
+    
+# Backend 
+https://github.com/edgar1223/foroWeb2.0.git
+
 
