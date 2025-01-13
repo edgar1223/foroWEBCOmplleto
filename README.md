@@ -83,7 +83,7 @@ jwt.secret=TU_LLAVE_SECRETA
 
     Notificaciones en tiempo real para usuarios.
     
-# Backend 
+# Frontend  
 https://github.com/edgar1223/foroWeb2.0.git
 
 
